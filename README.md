@@ -1,12 +1,64 @@
-# Project 2: Pixel Station
+# Project: Pixel Station
+
+PROJECT DEMO VIDEO
+
+<insert hyper link here>
+
+-- TECH STACK -- 
+
+Front End:
+- Angular
+- TypeScript
+- HTML
+- CSS 
+
+Back End:
+- Java
+- Spring Boot
+- Maven
+
+Database:
+- PostGreSQL (hosted on Amazon RDS)
+
+Other:
+- Postman
+- SonarLint
+
+
+## Executive Summary
+* Pixel Station is an art sharing platform and an online space for video game artists and pixel art enthusiasts to post their work.
+* Users can create a profile, post original pieces of art, see other artist's creations, like or dislike posts, and leave comments.
+* Administrators can view users, and their art posts, and delete them as needed.
+
+
+#### General User Stories 
+- A User can login
+- A User can see a recommended artist on their user dashboard
+- A User can see recommended posts on their user dashboard
+- A User can create a new post with a title and description
+- A User can like or dislike a post
+- A User can comment on a post
+- A User can go to their profile page and see all of their posts in a gallery
+- A User can see recommend palettes, tutorials, and about us
+- A User can logout
+
+#### Administrator User Stories
+- An Administrator can login
+- An Administrator can view their inbox
+- An Administrator can view a list of all users
+- An Administrator can view a list of all posts
+- An Administrator can delete a post by ID
+- An Administrator can delete a User by ID
+- An Administrator can logout
+
 
 The devs behind this project:
 
-Justin Banks – https://github.com/jtscottb
+Brandon Jones – https://github.com/Brandon-Jones-99
 
 Dezel Davis – https://github.com/dmdworks/
 
-Brandon Jones – https://github.com/Brandon-Jones-99
+Justin Banks – https://github.com/jtscottb
 
 Anthony Nysveen – https://github.com/asnysveen
 
@@ -84,4 +136,3 @@ Aseprite link – https://www.aseprite.org/
 Final Fantasy is the sole property of Square Enix. We do not own it, we merely used and referenced some of their assets in this demo.
 
 This project has no association with the any website (proprietary or otherwise), application, software, or other digital asset called “Pixel Station”
-
