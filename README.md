@@ -4,7 +4,7 @@ PROJECT DEMO VIDEO
 
 https://www.loom.com/share/08924eb4c2e24d91aa8b96113be9a30a
 
--- TECH STACK -- 
+## -- TECH STACK -- 
 
 Front End:
 - Angular
@@ -63,7 +63,7 @@ Justin Banks – https://github.com/jtscottb
 Anthony Nysveen – https://github.com/asnysveen
 
 
-SPECIAL THANKS
+## SPECIAL THANKS
 
 We don’t own and didn’t make any of the pixel art used in any of this project’s demos, these are the awesome people who did. If you love pixel art, please check out their stuff and support them. 
 
