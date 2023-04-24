@@ -1,26 +1,26 @@
 # Project: Pixel Station
 
-PROJECT DEMO VIDEO
+#### PROJECT DEMO VIDEO
 
 https://www.loom.com/share/08924eb4c2e24d91aa8b96113be9a30a
 
 ## -- TECH STACK -- 
 
-Front End:
+#### Front End:
 - Angular
 - TypeScript
 - HTML
 - CSS 
 
-Back End:
+#### Back End:
 - Java
 - Spring Boot
 - Maven
 
-Database:
+#### Database:
 - PostGreSQL (hosted on Amazon RDS)
 
-Other:
+#### Other:
 - Postman
 - SonarLint
 
@@ -52,7 +52,7 @@ Other:
 - An Administrator can logout
 
 
-The devs behind this project:
+#### The devs behind this project:
 
 Brandon Jones – https://github.com/Brandon-Jones-99
 
@@ -68,7 +68,7 @@ Anthony Nysveen – https://github.com/asnysveen
 We don’t own and didn’t make any of the pixel art used in any of this project’s demos, these are the awesome people who did. If you love pixel art, please check out their stuff and support them. 
 
 
--Pixel Artists-
+#### -Pixel Artists-
 
 
 Adam C. Younis https://upponhill.com, https://www.youtube.com/c/AdamCYounis
@@ -86,7 +86,7 @@ Bluekomadori – https://twitter.com/bluekomadori
 Llia.m – https://twitter.com/ramennoodle_0
 
 
--Pixel Art from Games-
+#### -Pixel Art from Games-
 
 
 Astalon: Tears of the Earth - LABS works http://www.mattkap.net/labs/check/  (this website is not secure)
@@ -109,7 +109,7 @@ Rusted Moss – faxdoc https://twitter.com/faxdocc?lang=en
 
 (you can also find out more information about these games on steam)
 
--Color Palettes- 
+#### -Color Palettes- 
 all of the color palettes referenced in this project were found here: https://lospec.com/palette-list/
 
 AYY 4 by Polyducks: https://lospec.com/palette-list/ayy4
@@ -125,7 +125,7 @@ SLSO 8 by Luis Miguel Maldonado: https://lospec.com/palette-list/slso8
 Twilight 5 by Star: https://lospec.com/palette-list/twilight-5
 
 
-Other Resources
+#### Other Resources
 
 Dashboard Image – Uzunov Rostislav, ‘purple and pink diamond on blue background’ https://www.pexels.com/photo/purple-and-pink-diamond-on-blue-background-5011647/
 
